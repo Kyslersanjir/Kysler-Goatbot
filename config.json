@@ -17,30 +17,30 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100000768468627",
-    "100030205562796",
+    "61554265433272",
+    "61554265433272",
+    "61554265433272",
     "",
-    "",
-    "100082247235177"
+    ""
   ],
   "GOD": [
-    "100000768468627",
-    "100089495797706"
+    "61554265433272",
+    ""
   ],
   "DEV": [
-    "100000768468627",
-    "100089495797706"
+    "61554265433272",
+    "61554265433272"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𓆩X-NiL‣᭄𓆪-143🔥",
-  "authorName": "𝐗𝐍𝐈𝐋",
-  "authorFB": "https://www.facebook.com/xnilxhowdhury143",
-  "authorEmail": "xnilxhowdhury@gmail.com",
-  "prefix": "/",
+  "nickNameBot": "🅒🅛🅐🅢🅗 🅚🅘🅝🅖",
+  "authorName": "𝐤𝐲𝐬𝐥𝐞𝐫",
+  "authorFB": "https://www.facebook.com/ichiro.2025",
+  "authorEmail": "ichirosanjiro025@gmail.com",
+  "prefix": "*",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
